@@ -1,2 +1,2 @@
 # OKT_2
-#Ppróba projekt
+#próba projekt
